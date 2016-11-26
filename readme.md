@@ -28,3 +28,9 @@ mv grubx64.efi bootx64.efi
 sync;sync;sync;
 reboot
 ```
+
+##emacs markdownモード
+
+- C-c C-c p: プレビュー(一時ファイルを出力しブラウザを開く)
+- C-c C-c v: 出力 &amp; 表示
+- C-c C-c w: 出力
